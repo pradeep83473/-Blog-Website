@@ -1,0 +1,20 @@
+{
+    "params": {
+        "local_server": "True",
+        "local_uri": "mysql://root:@localhost/nick's blog",
+        "prod_uri": "mysql://root:@localhost/nick's blog",
+        "fb_url": "https://facebook.com/nick's blog ",
+        "twitter_url": "https://twitter.com/nick's blog",
+        "git_url": "https://github.com/nick's blog",
+        "tag_name": "Blog for Programmers",
+        "blog_name": "Nick's Blog",
+        "gmail-user": "nick11@gmail.com",
+        "gmail-password": "nick123",
+        "no_of_posts": 4,
+        "about_text": "Hi guys this Nick's page you can learn here a lot of programming tutorials and gain knowlege",
+        "login_image": "pradeep.png",
+        "admin_user": "pradeep",
+        "admin_password": "12",
+        "upload_location": "C:\\Users\\pradeep singh\\Desktop\\Project Flask\\static\\uploaded images"
+    }
+}
